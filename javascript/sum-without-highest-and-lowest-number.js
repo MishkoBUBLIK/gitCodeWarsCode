@@ -11,4 +11,5 @@ function sumArray(array) {
 }
 
 console.log(sumArray([6, 2, 1, 8, 10]));
+console.log(sumArray([1, 2, 3, 4, 5]));
 
